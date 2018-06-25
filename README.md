@@ -5,11 +5,11 @@ recommend_publication_project
        Apache
              http://www.apache.org/
        SPASPARQL Wrapper (Python)
-	           https://rdflib.github.io/sparqlwrapper/
+	     https://rdflib.github.io/sparqlwrapper/
        FLASK
-	           https://pypi.org/project/Flask/1.0.2/
+	     https://pypi.org/project/Flask/1.0.2/
        lasticsearch
-	           https://www.elastic.co/products/elasticsearch
+	     https://www.elastic.co/products/elasticsearch
     2.【系统设计思路】
         -->通过框架搭建一个轻型WEB表单
         -->调用SPASPARQL Wrapper 库，通过SPARQL查询语句在DBpedia进行出版物查询
