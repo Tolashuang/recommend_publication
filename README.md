@@ -1,6 +1,10 @@
 # recommend_publication
 recommend_publication_project
+
 基于知识图谱的出版物检索推荐系统设计思路及使用说明
+
+
+
     1.【系统的框架及查询库】
        Apache
              http://www.apache.org/
